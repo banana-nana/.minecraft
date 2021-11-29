@@ -1,0 +1,20 @@
+{
+  "modules": {
+    "megane-team-reborn-energy": {
+      "badasintended.megane.impl.TeamRebornEnergy": true,
+      "badasintended.megane.impl.LegacyTeamRebornEnergy": true
+    },
+    "megane-reborn-core": {
+      "badasintended.megane.impl.RebornCore": true
+    },
+    "megane-fabric-transfer": {
+      "badasintended.megane.impl.FabricTransfer": true
+    },
+    "megane-tech-reborn": {
+      "badasintended.megane.impl.TechReborn": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true
+    }
+  }
+}
